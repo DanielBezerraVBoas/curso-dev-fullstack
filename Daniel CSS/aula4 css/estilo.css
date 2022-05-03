@@ -1,0 +1,22 @@
+body {
+    background-image:url(mesadetrabalho.jpg);
+    background-repeat: no-repeat;
+    /*background-position: a posição desejada tamnbem pode ser por meio de porcentagem 100% 10%;*/
+    background-position:  center center;
+    background-size: cover;
+    background-attachment: fixed;
+}  
+
+.foto-principal{
+    width: 170px;
+    border: 2px solid #ffff;
+   border-radius: 50% 10% 50% 10%;
+    /* essas configurações podem ser feitas da seguinte forma tabmbém:
+    border-widht:1000px;
+    border-style:solid;
+    border-color:black;*/
+}
+
+.p{
+    color: #000;
+}

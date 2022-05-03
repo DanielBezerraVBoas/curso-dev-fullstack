@@ -1,0 +1,42 @@
+body {
+    background-image:url(istockphoto-696817108-170667a.jpg);
+    background-repeat: no-repeat;
+    /*background-position: a posição desejada tamnbem pode ser por meio de porcentagem 100% 10%;*/
+    background-position:  center center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica,'Courier New',sans-serif;
+    color:rgb(0,0,0);
+}  
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+.profile{
+text-align: center;
+margin-bottom: 30px;
+}
+.foto-principal{
+    width: 170px;
+    border: 2px solid rgb(145, 145, 145);
+    border-radius: 50% 10% 50% 10%;
+    margin: 30px 30px 0px 30px;
+    padding: 5px;
+    box-shadow: 5px 5px #202020;
+}
+
+
+.p{
+    color: #000;
+}
+h1{
+ 
+   margin-bottom: 0%;
+   margin-top: 10px;
+}
+
+h2{
+    margin-top: 0%;
+    font-style: italic;
+    font-weight: 300;
+}

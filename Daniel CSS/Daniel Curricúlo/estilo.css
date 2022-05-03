@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(150, 150, 150);
+    background-position:center,center ;
+    background-attachment: fixed;
+}
+
+.foto-principal{
+    width: 20px;
+    border-radius: 20%;
+}
